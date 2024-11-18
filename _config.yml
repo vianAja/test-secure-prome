@@ -84,4 +84,4 @@ collections:
     image: https://via.placeholder.com/800x600
     show_sidebar: false
 
-remote_theme: vianAja/test-secure-prome
+remote_theme: chrisrhymes/bulma-clean-theme@v1.0.0
