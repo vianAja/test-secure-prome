@@ -85,3 +85,4 @@ collections:
     show_sidebar: false
     
 remote_theme: chrisrhymes/bulma-clean-theme@v1.0.0
+force_theme: dark
