@@ -12,5 +12,6 @@ group :jekyll_plugins do
     gem "jekyll-seo-tag"
     gem 'jekyll-redirect-from'
     gem "bulma-clean-theme", '1.0.0'
+    gem 'github-pages', '~> 231'
 end
 
