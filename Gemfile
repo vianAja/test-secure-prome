@@ -4,12 +4,13 @@ source "https://rubygems.org"
 gemspec
 
 group :jekyll_plugins do
+    gem "jekyll", "~> 4.3"
     gem "faraday-retry"
     gem "jekyll-feed", "~> 0.6"
     gem "jekyll-sitemap"
     gem "jekyll-paginate"
     gem "jekyll-seo-tag"
     gem 'jekyll-redirect-from'
-    gem "bulma-clean-theme"
+    gem "bulma-clean-theme", '1.0.0'
 end
 
